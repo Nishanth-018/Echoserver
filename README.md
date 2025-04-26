@@ -61,7 +61,7 @@ print(f"Received {data!r}")
 ```
 
 ## OUTPUT:
-![Screenshot 2025-03-24 124530](https://github.com/user-attachments/assets/45974edb-5681-4647-b8c5-efd4a202c107)
+![image](https://github.com/user-attachments/assets/e2e190e9-62fe-4a2d-b98e-eb753217c5d6)
 
 ![Screenshot 2025-03-24 124645](https://github.com/user-attachments/assets/e74a30d5-f988-4adf-b54b-4545c98b536b)
 
